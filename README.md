@@ -46,7 +46,7 @@ Based on the RP protocol, a variety of rule protocols are built to solve Web3 bu
 
 
 
-#### ORP (Orginazation Rule Protocol)
+#### ORP (Organization Rule Protocol)
 
 It is a rule and agreement standard for dealing with human production relations and distribution according to work.
 
@@ -80,7 +80,7 @@ ORP is the cornerstone of all other RPs.
 
 # ORP
 
-Orginazation Rule Protocol.
+Organization Rule Protocol.
 
 Based on the definition of RP, it is to solve the collaborative relationship between members within an organization.
 
